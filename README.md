@@ -4,7 +4,7 @@ Overview
 This project focuses on analyzing data related to refugees, asylum seekers, and internally displaced persons (IDPs). The analysis is divided into three main areas, each utilizing different tools and techniques.
 
 1. Data Cleaning and Exploratory Data Analysis (EDA) with Python
-1.1 Data Cleaning
+  1.1 Data Cleaning
 In this phase, Python was used to clean two CSV files containing information about the number of refugees, asylum seekers, and IDPs. The cleaning process aimed to ensure data accuracy, consistency, and completeness.
 
   1.2 Exploratory Data Analysis (EDA)
