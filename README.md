@@ -39,8 +39,8 @@ Open the PowerBi dashboard file PowerBI_Capstone.pbix to explore the visual repr
 
 DEPENDECIES
 
-Python 3.x
-SQL Database (e.g., MySQL, SQLite)
-PowerBi
+- Python 3.x
+- SQL Database (e.g., MySQL, SQLite)
+- PowerBi
 
 
