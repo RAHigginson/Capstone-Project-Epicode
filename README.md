@@ -7,7 +7,7 @@ This project focuses on analyzing data related to refugees, asylum seekers, and 
 1.1 Data Cleaning
 In this phase, Python was used to clean two CSV files containing information about the number of refugees, asylum seekers, and IDPs. The cleaning process aimed to ensure data accuracy, consistency, and completeness.
 
-1.2 Exploratory Data Analysis (EDA)
+  1.2 Exploratory Data Analysis (EDA)
 Following the data cleaning, an Exploratory Data Analysis was conducted using Python. This involved different techniques to assess the quality of the databases. The insights gained from this analysis helped in understanding the characteristics and patterns within the data.
 
 2. SQL Queries for Database Insights
@@ -35,6 +35,7 @@ Execute SQL queries using your preferred database management tool, referencing t
 Open the PowerBi dashboard file PowerBI_Capstone.pbix to explore the visual representation of the analyzed data.
 
 Dependencies
+
 Python 3.x
 SQL Database (e.g., MySQL, SQLite)
 PowerBi
