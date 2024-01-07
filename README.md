@@ -1,6 +1,7 @@
 # Capstone project Ricardo Higginson: Global displacement insight: a comprehensive analysis.
 
-Overview
+OVERVIEW
+
 This project focuses on analyzing data related to refugees, asylum seekers, and internally displaced persons (IDPs). The analysis is divided into three main areas, each utilizing different tools and techniques.
 
 1. Data Cleaning and Exploratory Data Analysis (EDA) with Python
@@ -17,7 +18,8 @@ The second area of focus involved using SQL to query the databases. By leveragin
 3. Dashboard Creation with PowerBi
 In the third and final area, PowerBi was employed to create an interactive and informative dashboard. The dashboard incorporates the cleaned and analyzed data. PowerBi's capabilities were harnessed to make the data accessible and comprehensible.
 
-Usage
+USAGE
+
 1. Data Cleaning and EDA
 To perform data cleaning and exploratory analysis, run the following Python scripts:
 - Python_Cleaning task 1.ipynb
@@ -35,7 +37,7 @@ Execute SQL queries using your preferred database management tool, referencing t
 3. PowerBi Dashboard
 Open the PowerBi dashboard file PowerBI_Capstone.pbix to explore the visual representation of the analyzed data.
 
-Dependencies
+DEPENDECIES
 
 Python 3.x
 SQL Database (e.g., MySQL, SQLite)
