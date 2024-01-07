@@ -1,4 +1,5 @@
-# Capstone project Ricardo Higginson: Global displacement insight: a comprehensive analysis.
+# Capstone project Ricardo Higginson.
+Global displacement insight: a comprehensive analysis.
 
 OVERVIEW
 
