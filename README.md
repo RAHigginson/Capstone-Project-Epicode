@@ -5,10 +5,10 @@ This project focuses on analyzing data related to refugees, asylum seekers, and 
 
 1. Data Cleaning and Exploratory Data Analysis (EDA) with Python
   
-  1.1 Data Cleaning
+  1.1. Data Cleaning
 In this phase, Python was used to clean two CSV files containing information about the number of refugees, asylum seekers, and IDPs. The cleaning process aimed to ensure data accuracy, consistency, and completeness.
 
-  1.2 Exploratory Data Analysis (EDA)
+  1.2. Exploratory Data Analysis (EDA)
 Following the data cleaning, an Exploratory Data Analysis was conducted using Python. This involved different techniques to assess the quality of the databases. The insights gained from this analysis helped in understanding the characteristics and patterns within the data.
 
 2. SQL Queries for Database Insights
