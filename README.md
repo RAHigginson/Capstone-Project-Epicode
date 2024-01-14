@@ -43,4 +43,8 @@ DEPENDECIES
 - SQL Database (e.g., MySQL, SQLite)
 - PowerBi
 
+PRESENTATION
+
+https://www.youtube.com/watch?v=f_iqkGXdqqo
+
 
